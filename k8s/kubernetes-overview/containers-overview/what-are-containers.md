@@ -16,7 +16,7 @@ Not being able to run another kernel on the OS might look like a disadvantage, b
 
 \[diagram-listing-out-differences]
 
-It is important to note here that Docker has less isolation and more resources shared between containers (like the kernel), whereas VMs have complete isolation from each other. Since VMs do not rely on the underlying OS or kerel, we can run different types of OS on the same hypervisor.
+It is important to note here that Docker has less isolation and more resources shared between containers (like the kernel), whereas VMs have complete isolation from each other. Since VMs do not rely on the underlying OS or kernel, we can run different types of OS on the same hypervisor.
 
 ### Image
 

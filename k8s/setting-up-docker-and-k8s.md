@@ -34,7 +34,7 @@ The `kubectl` command line tool comes bundled with Docker, so we just need to en
 
 ## Install `minikube`
 
-Now we will install `minikube`, which is a lightweight, single-nore Kubernetes clister that can be run locally on your dev machine. This will allow us to test and develop kubernetes applications without having to set up a full scale cluster.
+Now we will install `minikube`, which is a lightweight, single-node Kubernetes cluster that can be run locally on your dev machine. This will allow us to test and develop kubernetes applications without having to set up a full scale cluster.
 
 ```bash
 brew install minikube

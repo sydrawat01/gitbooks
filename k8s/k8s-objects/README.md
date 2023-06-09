@@ -35,7 +35,7 @@ The `kind` of the pod determines what kind of kubernetes pod we create, which wo
 
 ### `metadata`
 
-The `metadata` is used to define the name of the kubernetes service we create. It also has additional properties like labels, which are used to define tag which help us group particular type of pods during container orchestration in kubernetes. We'll get to the exact usecase of lables in a bit.
+The `metadata` is used to define the name of the kubernetes service we create. It also has additional properties like labels, which are used to define tag which help us group particular type of pods during container orchestration in kubernetes. We'll get to the exact usecase of labels in a bit.
 
 Two main properties we'll be using with metadata:
 
